@@ -1,0 +1,46 @@
+body {
+  background-image: url('bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h2 {
+  color: #F2EBE9;
+  font-family: Lucida Console;
+  padding-right: 20px;
+  text-indent: 20px;
+  font-size: 20px;
+}
+
+hr {
+  opacity: 0.5;
+  margin-left: 20px;
+  width: 457px;
+}
+
+.bg{
+  color: #F2EBE9;
+  font-family: Consolas;
+  margin-left: 20px;
+  text-align: left;
+  line-height: 35px;
+  font-size: 20px;
+}
+
+.bg{
+  border-style: none;
+  background:rgba(0, 0, 0, 0.2);
+  width:450px;
+  padding: 10px;
+  background-repeat:no-repeat;
+}
+
+.fn:hover{
+  background-color: #F2EBE9;
+  color:black;
+}
+
+.bg:hover{
+  border-style: solid;
+  border-color: #F2EBE9;
+}
